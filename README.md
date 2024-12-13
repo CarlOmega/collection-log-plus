@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Collection Log Plus
+A plugin to add collection log locally for all items
